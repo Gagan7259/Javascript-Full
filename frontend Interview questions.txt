@@ -1,0 +1,388 @@
+=====================================JAVASCRIPT  QUESTIONS =============================================================
+1.javascript is lightweight scripting  language
+2.its easy to learn and use
+3.its makes ur webpages more responsive
+4.its allows OOPS concept
+5.its creates cookies
+6.its detect the users browser  Operating system,screen size ,ip adress etc
+-------------------------------------------------------------------------------------------------------
+Difference b/w compiler and interpreted Langusges
+
+Compiler:-the compiler translate the script code into machanile language then exicute 
+          compiler exicutes code by machanine 
+Interpriter:-the interpriter language the code not run by the machine 
+             there is an another program which reads and convert machine language then exicute the code
+ 
+=========================Javascript engines avilable in browsers==============================================
+                          
+                          Mozilla====>sprider Monkey
+                           chrome  Nodejs=====>V8
+                          Ie&edge====> chakra   
+
+------------------------------------------------------------------------------------------------------------
+JAVACRIPT POPUP BOXES:-alertbox,promptbox,confirmbox
+
+
+NOSCRIPT Tag:-if u do nothing its not important tag
+              but we can use for display the warning messages using NoScript Tag
+===============================================================================================================================
+
+
+-----------------JAVASCRIPT IDENTIFIES---------------------------------
+1.Variable may include 0-9,a-z,A-Z,$ and _ characters only
+2.names staring with A-Z a-z and $ _ only
+3.variable names are case sensitive  Count count COUNT all are different variables
+4.there is no limit variable length
+
+============================================================================================================================
+
+                                    Javascript Keywords'
+
+Await    break   case  catch  class   const  continue    debugger  default   delete   do     else  enum  export  extends  false  finally 
+for     function   if  implements  import   in   instanceof  interface  let   new  null  package   private  static  this  return  super 
+throw    try    true  switch  typeof  var  void   while  with yeild
+
+l.VAR keyword:- its also called as Global scoped or function scoped
+                 if we defines a varible outside the function we can acces globally in function
+                 if we defines the var variables inside the function we can acces in the specific function only
+
+2.LET Keyword:-its also called as Block scoped Variables 
+                its accesible within the block only we cant accces outside of the bblock
+
+3.CONST Keyword:-its constant variable when we defines values ionce we cant update or change the values of that variable
+
+================================================================================================================================================
+                                                 JAVASCRIPT DATATYPES
+
+
+          PRIMITIVE :-                             NON-PRIMITIVE:-
+                     1.STRING                                      1.OBJECT
+                     2.NUMBER                                      2.ARRAY
+                     3.NULL
+                     4.BOOLEAN
+                     5.UNDEFINED
+
+
+===============================================================================================================================================
+
+                                        [= ,== ,=== DIFFERENCE ]
+
+0 == false   // true
+0 === false  // false, because they are of a different type
+1 == "1"     // true, automatic type conversion for value only
+1 === "1"    // false, because they are of a different type
+null == undefined // true
+null === undefined // false
+'0' == false // true
+'0' === false // false
+
+
+
+(=)  -> 1.Asigning vales to variable i javascript
+        2.its also called as assignesd operater
+
+(==)  ->1.comparing to the two different datatypes only compare datatypes 
+        2.type not important but values must be the same
+
+(===) ->1.its comparing very strictly both campare datatype and vales also
+        2.data type and values must be the same otherwise throw error
+
+==================================================================================================================================
+
+NAN:-Not A Number
+    	the result matmatically not possible 
+
+================================================================================================================
+                                Types of controle flow
+
+1.CONDITIONAL STATEMENTS:-if we want to perform  different actions for different decisions
+ =>if statement ->when specific condition is true 
+ =>if esle statement->when two conditions in one block of code one condition is true and another condition is false then we use this statement
+ =>switch statement->many conditions in the block exicut ethe true condition
+ 
+2.TERNARY OPERATER:-1.ternary operater iterates the block of code and exicute the true condition 
+                     2.its usesd Instead of IF-ELSE
+
+ITERATIVE STATEMENT:-
+ 1.FOR LOOP:-Loop through block of code a specific number of times
+ 2.FOR-IN LOOP
+ 3.FOR-IN LOOP
+ 4.WHILE LOOP:-loop through block of code specific condition true
+ 5.DO-WHILE LOOP                   
+
+==================================================================================================================================================
+  
+Javascript Function:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

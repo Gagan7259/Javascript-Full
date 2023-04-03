@@ -1,0 +1,99 @@
+**************JAVASCRIPT********************
+Human readable code
+only understand 0 And 1 only
+we need to convert machine readble binary format used compiler/interpreter
+
+JAVA         |                         JAVA SCRIPT   |
+TYPESCRIPT   |  ==>COMPILER            PYTHON        |==>INTERPRETATER
+C++          |    
+
+using covert high level to low level language
+
+
+
+COMPILER                                                                         INTERPRETOR
+* THERE IS NO OUTPUT IF HAVE ERROR IN THE PROGRAM                                  *EXICUTE THE LINE BY LINE 
+* ANALYZING EXICUTING AT A TIME                                                    IF ANY ERROR OCCUR IN LINE IT WILL STOP THE OUTPUT
+              
+              
+              
+ JAVA:-java packages-mvnRepoeistory
+       install JAVA
+       we will get JAVAC  and JAVA
+
+ PYTHON:-pypi.org
+         install PYTHON
+                   :- we will get python and pip
+
+ JAVASCRIPT:- npmjs.com 
+             install node Js
+                  :- we will get node and npm                                                                                * ANALYZING EXICUTE THE LINE BY LINE
+
+
+JS-STatements:-exicutable statements
+JS-COmments:-Not exicutable code
+
+
+Variable:-var id=101
+           var-dataType
+           id-Identifier
+
+Function:- function wish(){ clg("hello)}
+            function-dataType
+           wish-Identifier
+
+Class:-class test{}
+       class-dataType
+           test-Identifier
+
+Object:-var EMP={}
+             var-dataType
+           EMP-Identifier
+
+**********************RULES FORV IDENTIFIERS ******************          
+ 
+ * Identifier should contains a-z A-Z, $ _
+ * Identifier should not start with digit
+ * Identifier should not contains special characters except $ _
+ * cant use keywords
+ * special symbols are not allowed
+
+ ******************KEYWORD ?RESERVERD WORD**********
+ abstract	arguments	await*	boolean
+break	byte	case	catch
+char	class*	const	continue
+debugger	default	delete	do
+double	else	enum*	eval
+export*	extends*	false	final
+finally	float	for	function
+goto	if	implements	import*
+in	instanceof	int	interface
+let*	long	native	new
+null	package	private	protected
+public	return	short	static
+super*	switch	synchronized	this
+throw	throws	transient	true
+try	typeof	var	void
+volatile	while	with	yield
+
+
+**********************DATATYPES*************************
+1.PRIMITIVE DATATYPES
+                    :- Holding single values
+                    var phone="Iphone" 
+                    var name="Gagan"
+                    STRING
+                    NUMBER 
+                    BOOLEAN
+                    UNDIFINED
+                    NULL
+                    SYMBOL
+                    BIG INT
+ 
+2.NON-PRIMITIVE DATATYPES
+                       :- Holding multiple values
+                         Lt size=[10,20,30,40,50] 
+
+                   ONLY ONE NON-PRIMITIVE DATATYPE      OBJECT==[]
+                                                        ARRAY=={}
+
