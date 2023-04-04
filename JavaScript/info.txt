@@ -96,4 +96,25 @@ volatile	while	with	yield
 
                    ONLY ONE NON-PRIMITIVE DATATYPE      OBJECT==[]
                                                         ARRAY=={}
+*************OPERATERS************************
+
+1.ARTHMATIC OPERATERS      +-*/%
+2.RELATIVE /CONDITIONAL    > < >= <=
+3.LOGICAL                  || &&
+4.EQUALITY                 == ===
+5.TERNARY                  ?:
+6.ASSIGN                   =
+7.BIT WISE
+
+
+********************CONTROLE FLOW*************
+CONDITIONAL FLOW                                 ITERATIVE
+
+IF                                               FOR        
+IF else                                          WHILE
+SWITCH  CASE BRAEAK DEFAULT                      DO WHILE
+                                                  FOR(  OF)
+                                                  FOR(   IN)
+                                                  **ARRAY SUPPORTING
+
 

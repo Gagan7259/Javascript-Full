@@ -15,4 +15,7 @@ console.log(typeof(size));
 console.log(size);
 console.log(typeof(s));
 console.log(s);
+console.log(size[0]);
+console.log(size[1]);
+console.log(size[2]);
 
