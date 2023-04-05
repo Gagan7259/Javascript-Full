@@ -147,3 +147,8 @@ SHIFT()
 -------------------FUNCTION-------------------
 Specific perpose we create statements   
 group of statements for specific purpose using function keyword
+
+
+*************OBJECT*******************
+1.we want to repraseent group of key anmd values 
+2.group of function ande dataType
