@@ -124,3 +124,26 @@ SWITCH  CASE BRAEAK DEFAULT                      DO WHILE
 
 let size=[38,40,50,60,70]
 var size=['s','m','l','xl','xxl']
+
+
+1.if u want to reprasents group of values as an entity
+2.values are stored based on indexing
+3.allowd duplicates
+4.allowd hetrogeneous
+5.indexing and slicing possible
+6.-ve index not possible
+7.array is iterable Object
+
+
+************CLASS*******************
+
+contains METHODS AND PROPERTIES
+
+LENGTH
+POP()
+PUSH()
+SHIFT()
+
+-------------------FUNCTION-------------------
+Specific perpose we create statements   
+group of statements for specific purpose using function keyword
